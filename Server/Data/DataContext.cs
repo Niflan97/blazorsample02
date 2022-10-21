@@ -8,9 +8,9 @@ namespace blazorsample02.Server.Data
 
     {
 
-        private DataContext(DbContextOptions options) :base(options)
+        public DataContext(DbContextOptions options, DbSet<Movies> movie) :base(options)
         {
-            
+            Movie = movie;
         }
 
         

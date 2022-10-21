@@ -13,18 +13,20 @@ namespace blazorsample02.Server.Controllers
 
     public class MovieController : ControllerBase
     {
+        
         private readonly DataContext _DbContext;
 
-        public MovieController(DataContext dbContext)
+        public MovieController( DataContext dbContext)
         {
+            
             _DbContext = dbContext;
         }
 
 
         [HttpGet]
-        private IEnumerable<Movies> GetMovies()
+        public  async Task<IActionResult> GetMovies()
         {
-            return _DbContext.Movie.ToList();
+            return Ok(await _DbContext.Movie.ToListAsync());
 
         }
 
