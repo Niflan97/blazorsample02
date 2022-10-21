@@ -1,0 +1,12 @@
+/Users/niflan-mhd/Projects/blazorsample02/Shared/bin/Debug/net6.0/blazorsample02.Shared.deps.json
+/Users/niflan-mhd/Projects/blazorsample02/Shared/bin/Debug/net6.0/blazorsample02.Shared.dll
+/Users/niflan-mhd/Projects/blazorsample02/Shared/bin/Debug/net6.0/blazorsample02.Shared.pdb
+/Users/niflan-mhd/Projects/blazorsample02/Shared/obj/Debug/net6.0/blazorsample02.Shared.csproj.AssemblyReference.cache
+/Users/niflan-mhd/Projects/blazorsample02/Shared/obj/Debug/net6.0/blazorsample02.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niflan-mhd/Projects/blazorsample02/Shared/obj/Debug/net6.0/blazorsample02.Shared.AssemblyInfoInputs.cache
+/Users/niflan-mhd/Projects/blazorsample02/Shared/obj/Debug/net6.0/blazorsample02.Shared.AssemblyInfo.cs
+/Users/niflan-mhd/Projects/blazorsample02/Shared/obj/Debug/net6.0/blazorsample02.Shared.csproj.CoreCompileInputs.cache
+/Users/niflan-mhd/Projects/blazorsample02/Shared/obj/Debug/net6.0/blazorsample02.Shared.dll
+/Users/niflan-mhd/Projects/blazorsample02/Shared/obj/Debug/net6.0/refint/blazorsample02.Shared.dll
+/Users/niflan-mhd/Projects/blazorsample02/Shared/obj/Debug/net6.0/blazorsample02.Shared.pdb
+/Users/niflan-mhd/Projects/blazorsample02/Shared/obj/Debug/net6.0/ref/blazorsample02.Shared.dll

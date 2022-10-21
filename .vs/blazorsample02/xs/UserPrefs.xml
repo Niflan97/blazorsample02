@@ -1,0 +1,47 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{50B4C23D-F3C5-4699-BE06-67E183AF8ECA}|Default">
+  <MonoDevelop.Ide.ItemProperties.blazorsample02.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Client/Pages/FetchData.razor">
+    <Files>
+      <File FileName="Client/Pages/FetchData.razor" Line="40" Column="59" />
+      <File FileName="Server/Data/DataContext.cs" Line="7" Column="32" />
+      <File FileName="Shared/Movies.cs" Line="8" Column="23" />
+      <File FileName="Shared/WeatherForecast.cs" Line="5" Column="21" />
+      <File FileName="Server/Controllers/WeatherForecastController.cs" Line="15" Column="65" />
+      <File FileName="Server/Controllers/MovieController.cs" Line="25" Column="10" />
+      <File FileName="Server/Program.cs" Line="13" Column="88" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="blazorsample02" expanded="True">
+            <Node name="blazorsample02.Client" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="FetchData.razor" selected="True" />
+              </Node>
+            </Node>
+            <Node name="blazorsample02.Server" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+            </Node>
+            <Node name="blazorsample02.Shared" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

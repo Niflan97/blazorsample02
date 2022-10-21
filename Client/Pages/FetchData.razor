@@ -1,0 +1,45 @@
+﻿@page "/fetchdata"
+@using blazorsample02.Shared
+@inject HttpClient Http
+@using Microsoft.AspNetCore.Components.QuickGrid
+
+
+<PageTitle>Weather forecast</PageTitle>
+
+<h1> Movie Table</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+
+
+
+
+@if (MoviesList == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <QuickGrid Items="MoviesList.AsQueryable()" ResizableColumns>
+        <PropertyColumn Property="f => f.Id" Title="Id" Sortable="true"/>
+        <PropertyColumn Property="m => m.Movie_Name" Title="Movie Name" Sortable="true"/>
+        <PropertyColumn Property="m => m.Director" Title="Director"/>
+        <PropertyColumn Property="m => m.Year" Title="Year" Sortable="true"/>
+
+    </QuickGrid>
+}
+
+
+@code {
+    
+    private List<Movies>? MoviesList { get; set; } = new List<Movies>();
+    protected override async Task OnInitializedAsync()
+    {
+        MoviesList = await Http.GetFromJsonAsync<List<Movies>>("api/Movie");
+    }
+
+    
+
+}
+
+
