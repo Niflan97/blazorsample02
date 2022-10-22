@@ -11,9 +11,6 @@
 <p>This component demonstrates fetching data from the server.</p>
 
 
-
-
-
 @if (MoviesList == null)
 {
     <p><em>Loading...</em></p>
@@ -32,16 +29,12 @@ else
 
 @code {
     
-    
     private List<Movies> MoviesList { get; set; } = new List<Movies> ();
     
     protected override async Task OnInitializedAsync()
     {
-        MoviesList = await Http.GetFromJsonAsync<List<Movies>>("api/Movie");
+        MoviesList = (await Http.GetFromJsonAsync<List<Movies>>("api/Movie"))!;
     }
-
-    
-
 }
 
 

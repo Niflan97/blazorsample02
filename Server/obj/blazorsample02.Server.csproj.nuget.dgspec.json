@@ -1,34 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/Users/niflan-mhd/Projects/blazorsample02/Server/blazorsample02.Server.csproj": {}
+    "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Server\\blazorsample02.Server.csproj": {}
   },
   "projects": {
-    "/Users/niflan-mhd/Projects/blazorsample02/Client/blazorsample02.Client.csproj": {
+    "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Client\\blazorsample02.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/niflan-mhd/Projects/blazorsample02/Client/blazorsample02.Client.csproj",
+        "projectUniqueName": "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Client\\blazorsample02.Client.csproj",
         "projectName": "blazorsample02.Client",
-        "projectPath": "/Users/niflan-mhd/Projects/blazorsample02/Client/blazorsample02.Client.csproj",
-        "packagesPath": "/Users/niflan-mhd/.nuget/packages/",
-        "outputPath": "/Users/niflan-mhd/Projects/blazorsample02/Client/obj/",
+        "projectPath": "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Client\\blazorsample02.Client.csproj",
+        "packagesPath": "C:\\Users\\mmfazrin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/niflan-mhd/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mmfazrin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\mmfazrin\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/niflan-mhd/Projects/blazorsample02/Shared/blazorsample02.Shared.csproj": {
-                "projectPath": "/Users/niflan-mhd/Projects/blazorsample02/Shared/blazorsample02.Shared.csproj"
+              "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Shared\\blazorsample02.Shared.csproj": {
+                "projectPath": "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Shared\\blazorsample02.Shared.csproj"
               }
             }
           }
@@ -62,7 +67,7 @@
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[7.0.0-rc.2.22476.2, )"
             }
           },
           "imports": [
@@ -71,17 +76,22 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.7, 6.0.7]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -90,34 +100,39 @@
         }
       }
     },
-    "/Users/niflan-mhd/Projects/blazorsample02/Server/blazorsample02.Server.csproj": {
+    "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Server\\blazorsample02.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/niflan-mhd/Projects/blazorsample02/Server/blazorsample02.Server.csproj",
+        "projectUniqueName": "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Server\\blazorsample02.Server.csproj",
         "projectName": "blazorsample02.Server",
-        "projectPath": "/Users/niflan-mhd/Projects/blazorsample02/Server/blazorsample02.Server.csproj",
-        "packagesPath": "/Users/niflan-mhd/.nuget/packages/",
-        "outputPath": "/Users/niflan-mhd/Projects/blazorsample02/Server/obj/",
+        "projectPath": "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Server\\blazorsample02.Server.csproj",
+        "packagesPath": "C:\\Users\\mmfazrin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Server\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/niflan-mhd/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mmfazrin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\mmfazrin\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/niflan-mhd/Projects/blazorsample02/Client/blazorsample02.Client.csproj": {
-                "projectPath": "/Users/niflan-mhd/Projects/blazorsample02/Client/blazorsample02.Client.csproj"
+              "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Client\\blazorsample02.Client.csproj": {
+                "projectPath": "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Client\\blazorsample02.Client.csproj"
               },
-              "/Users/niflan-mhd/Projects/blazorsample02/Shared/blazorsample02.Shared.csproj": {
-                "projectPath": "/Users/niflan-mhd/Projects/blazorsample02/Shared/blazorsample02.Shared.csproj"
+              "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Shared\\blazorsample02.Shared.csproj": {
+                "projectPath": "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Shared\\blazorsample02.Shared.csproj"
               }
             }
           }
@@ -146,17 +161,17 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.0-rc.2.22472.11, )"
+              "version": "[6.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.0-rc.2.22472.11, )"
+              "version": "[6.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.0-rc.2.22472.11, )"
+              "version": "[6.0.10, )"
             }
           },
           "imports": [
@@ -165,8 +180,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -178,27 +192,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/niflan-mhd/Projects/blazorsample02/Shared/blazorsample02.Shared.csproj": {
+    "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Shared\\blazorsample02.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/niflan-mhd/Projects/blazorsample02/Shared/blazorsample02.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Shared\\blazorsample02.Shared.csproj",
         "projectName": "blazorsample02.Shared",
-        "projectPath": "/Users/niflan-mhd/Projects/blazorsample02/Shared/blazorsample02.Shared.csproj",
-        "packagesPath": "/Users/niflan-mhd/.nuget/packages/",
-        "outputPath": "/Users/niflan-mhd/Projects/blazorsample02/Shared/obj/",
+        "projectPath": "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Shared\\blazorsample02.Shared.csproj",
+        "packagesPath": "C:\\Users\\mmfazrin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mmfazrin\\RiderProjects\\blazorsample02\\Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/niflan-mhd/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mmfazrin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\mmfazrin\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -236,8 +255,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -246,7 +264,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

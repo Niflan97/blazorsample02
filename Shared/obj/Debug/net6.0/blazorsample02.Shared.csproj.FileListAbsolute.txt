@@ -10,3 +10,15 @@
 /Users/niflan-mhd/Projects/blazorsample02/Shared/obj/Debug/net6.0/refint/blazorsample02.Shared.dll
 /Users/niflan-mhd/Projects/blazorsample02/Shared/obj/Debug/net6.0/blazorsample02.Shared.pdb
 /Users/niflan-mhd/Projects/blazorsample02/Shared/obj/Debug/net6.0/ref/blazorsample02.Shared.dll
+C:\Users\mmfazrin\RiderProjects\blazorsample02\Shared\bin\Debug\net6.0\blazorsample02.Shared.deps.json
+C:\Users\mmfazrin\RiderProjects\blazorsample02\Shared\bin\Debug\net6.0\blazorsample02.Shared.dll
+C:\Users\mmfazrin\RiderProjects\blazorsample02\Shared\bin\Debug\net6.0\blazorsample02.Shared.pdb
+C:\Users\mmfazrin\RiderProjects\blazorsample02\Shared\obj\Debug\net6.0\blazorsample02.Shared.csproj.AssemblyReference.cache
+C:\Users\mmfazrin\RiderProjects\blazorsample02\Shared\obj\Debug\net6.0\blazorsample02.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmfazrin\RiderProjects\blazorsample02\Shared\obj\Debug\net6.0\blazorsample02.Shared.AssemblyInfoInputs.cache
+C:\Users\mmfazrin\RiderProjects\blazorsample02\Shared\obj\Debug\net6.0\blazorsample02.Shared.AssemblyInfo.cs
+C:\Users\mmfazrin\RiderProjects\blazorsample02\Shared\obj\Debug\net6.0\blazorsample02.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mmfazrin\RiderProjects\blazorsample02\Shared\obj\Debug\net6.0\blazorsample02.Shared.dll
+C:\Users\mmfazrin\RiderProjects\blazorsample02\Shared\obj\Debug\net6.0\refint\blazorsample02.Shared.dll
+C:\Users\mmfazrin\RiderProjects\blazorsample02\Shared\obj\Debug\net6.0\blazorsample02.Shared.pdb
+C:\Users\mmfazrin\RiderProjects\blazorsample02\Shared\obj\Debug\net6.0\ref\blazorsample02.Shared.dll

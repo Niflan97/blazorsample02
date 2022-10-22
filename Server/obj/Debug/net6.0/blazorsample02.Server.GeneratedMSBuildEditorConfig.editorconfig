@@ -8,13 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = blazorsample02.Server
 build_property.RootNamespace = blazorsample02.Server
-build_property.ProjectDir = /Users/niflan-mhd/Projects/blazorsample02/Server/
+build_property.ProjectDir = C:\Users\mmfazrin\RiderProjects\blazorsample02\Server\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/niflan-mhd/Projects/blazorsample02/Server
+build_property.MSBuildProjectDirectory = C:\Users\mmfazrin\RiderProjects\blazorsample02\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/niflan-mhd/Projects/blazorsample02/Server/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+[C:/Users/mmfazrin/RiderProjects/blazorsample02/Server/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
