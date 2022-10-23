@@ -11,41 +11,41 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = blazorsample02.Client
 build_property.RootNamespace = blazorsample02.Client
-build_property.ProjectDir = /Users/niflan-mhd/Projects/blazorsample02/Client/
+build_property.ProjectDir = C:\Users\mmfazrin\RiderProjects\blazorsample02\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/niflan-mhd/Projects/blazorsample02/Client
+build_property.MSBuildProjectDirectory = C:\Users\mmfazrin\RiderProjects\blazorsample02\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/niflan-mhd/Projects/blazorsample02/Client/App.razor]
+[C:/Users/mmfazrin/RiderProjects/blazorsample02/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/niflan-mhd/Projects/blazorsample02/Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[C:/Users/mmfazrin/RiderProjects/blazorsample02/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/niflan-mhd/Projects/blazorsample02/Client/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+[C:/Users/mmfazrin/RiderProjects/blazorsample02/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/niflan-mhd/Projects/blazorsample02/Client/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[C:/Users/mmfazrin/RiderProjects/blazorsample02/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/niflan-mhd/Projects/blazorsample02/Client/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+[C:/Users/mmfazrin/RiderProjects/blazorsample02/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/niflan-mhd/Projects/blazorsample02/Client/_Imports.razor]
+[C:/Users/mmfazrin/RiderProjects/blazorsample02/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/niflan-mhd/Projects/blazorsample02/Client/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-e42zq2q5b2
+[C:/Users/mmfazrin/RiderProjects/blazorsample02/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-e2fogp93i4
 
-[/Users/niflan-mhd/Projects/blazorsample02/Client/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-1p5h6mmw43
+[C:/Users/mmfazrin/RiderProjects/blazorsample02/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9frdcd29ha
